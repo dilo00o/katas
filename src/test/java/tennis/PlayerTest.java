@@ -1,11 +1,13 @@
-package tennis;
+package test.java.tennis;
 
+import main.java.tennis.Player;
 import org.junit.Test;
 
 import java.util.stream.IntStream;
 
-import static org.hamcrest.Matchers.*;
 import static org.hamcrest.MatcherAssert.assertThat;
+import static org.hamcrest.Matchers.hasProperty;
+import static org.hamcrest.Matchers.is;
 /**
  * Created by Mircea
  */

@@ -1,5 +1,6 @@
-package primefactor;
+package test.java.primefactors;
 
+import main.java.primefactor.PrimeFactor;
 import org.junit.After;
 import org.junit.Assert;
 import org.junit.Before;

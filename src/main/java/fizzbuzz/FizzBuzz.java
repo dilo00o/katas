@@ -1,11 +1,11 @@
-package fizzbuzz;
+package main.java.fizzbuzz;
 /**
  * Created by Mircea
  */
 public class FizzBuzz {
     public static String fizz = "fizz";
     public static String buzz = "buzz";
-    public static String fizzbuzz = "fizzbuzz";
+    public static String fizzbuzz = "main/java/fizzbuzz";
 
     public static String getResult(int n) {
         if (n % 15 == 0)

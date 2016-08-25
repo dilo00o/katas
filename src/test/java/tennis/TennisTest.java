@@ -1,5 +1,6 @@
-package tennis;
+package test.java.tennis;
 
+import main.java.tennis.*;
 import org.junit.Before;
 import org.junit.Test;
 
@@ -7,6 +8,7 @@ import java.util.stream.IntStream;
 
 import static org.hamcrest.MatcherAssert.assertThat;
 import static org.hamcrest.Matchers.*;
+
 /**
  * Created by Mircea
  */
