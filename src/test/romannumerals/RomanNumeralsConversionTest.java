@@ -1,6 +1,5 @@
-package test.java.romannumerals;
+package romannumerals;
 
-import main.java.romannumerals.RomanNumeralsConversion;
 import org.junit.Before;
 import org.junit.Test;
 
